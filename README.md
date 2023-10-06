@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRKf-NFKdLHYG_XcwLI2VyDrqpFvipFSjA2g&usqp=CAU">
 <h1 align="center">Hi 👋, I'm Md Mohin Uddin</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
@@ -6,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Reactjs** **&** **NodeJS**
 
 - 💬 Ask me about **JavaScript**
 
