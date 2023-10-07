@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://static.vecteezy.com/system/resources/thumbnails/022/328/336/original/isometric-desktop-computer-coding-programming-technology-programming-concept-technology-animation-transparent-background-with-alpha-channel-free-video.jpg">
+<img align="center" alt="Coding" width="100%" height="500px" src="https://static.vecteezy.com/system/resources/thumbnails/022/328/336/original/isometric-desktop-computer-coding-programming-technology-programming-concept-technology-animation-transparent-background-with-alpha-channel-free-video.jpg">
 <h1 align="center">Hi 👋, I'm Md Mohin Uddin</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
