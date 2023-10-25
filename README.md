@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **umohin485@gmail.com**
+- 📫 How to reach me **mdmohinuddin.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
